@@ -1,0 +1,13 @@
+{
+  "name": "BodyWise — Human Physiology Tutor",
+  "short_name": "BodyWise",
+  "description": "Learn how the human body works, one connected system at a time.",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f1",
+  "theme_color": "#0a6c67",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
