@@ -77,9 +77,4 @@ tutor     { history[], lastTopic }
 6. Dashboard, progress, notes, preferences, sources.
 7. Tests (logic in Node, flows in headless Chromium at phone and desktop widths).
 
-## Honest limits
 
-- Progress lives in one browser on one device. Clearing site data erases it; use the backup code in Preferences.
-- The built-in tutor is a **demo**: it retrieves and assembles prepared lesson content. It does not reason or generate.
-- Voice input depends on the browser (Chrome, Edge and Safari support it in some form; Firefox does not by default).
-- Not every lesson in the 13-module syllabus is written yet; unwritten lessons are labelled as outlines.
